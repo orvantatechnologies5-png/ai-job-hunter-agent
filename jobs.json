@@ -1,0 +1,7 @@
+[
+  {"id": 1, "title": "Junior Python Developer", "company": "Sample Co A", "location": "Remote", "skills": ["python", "fastapi", "sql"], "description": "Build REST APIs with FastAPI and PostgreSQL."},
+  {"id": 2, "title": "Senior Java Engineer", "company": "Sample Co B", "location": "Karachi", "skills": ["java", "spring", "kubernetes"], "description": "Lead backend services in Java. 6+ years required."},
+  {"id": 3, "title": "AI Engineer (LLM Apps)", "company": "Sample Co C", "location": "Remote", "skills": ["python", "llm", "api"], "description": "Build AI agents and chat tools using LLM APIs."},
+  {"id": 4, "title": "Graphic Designer", "company": "Sample Co D", "location": "Lahore", "skills": ["figma", "photoshop"], "description": "Design social media posts and brand assets."},
+  {"id": 5, "title": "Python Automation Developer", "company": "Sample Co E", "location": "Remote", "skills": ["python", "scripting", "apis"], "description": "Automate workflows with Python scripts and third-party APIs."}
+]

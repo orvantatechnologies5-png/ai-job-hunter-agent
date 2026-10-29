@@ -1,0 +1,5 @@
+Name: [Your Name]
+Skills: Python, FastAPI, SQL, Claude API, AI agents, MCP servers, Git
+Experience: 1 year building Python backends and AI chat tools
+Projects: AI agent with memory and MCP tools; REST API for an e-commerce store
+Education: BS Software Engineering
